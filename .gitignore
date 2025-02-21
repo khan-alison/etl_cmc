@@ -5,4 +5,4 @@ __pycache__/
 
 # Optionally, ignore your environment file (if you have one)
 .env
-.jars
+.jarsdata/
